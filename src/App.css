@@ -1,0 +1,9 @@
+.app-component{
+  width : 400px;
+  min-height : 350px;
+  height : auto;
+  margin : 150px auto;  
+  box-shadow: 0px 0px 8px #ada4a4;
+  background-color: white;
+  border-radius: 8px;
+}
